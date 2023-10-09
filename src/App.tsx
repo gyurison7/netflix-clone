@@ -6,7 +6,7 @@ import Header from "./components/Header";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Header />
       <Routes>
         <Route path="/" element={<Home />}>
