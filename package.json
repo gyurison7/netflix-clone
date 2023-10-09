@@ -61,5 +61,5 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.28"
   },
-  "homepage": "https://gyurison7.github.io/netflix-clone"
+  "homepage": "https://gyurison7.github.io/nomflix"
 }
